@@ -1,0 +1,16 @@
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\bin\Debug\net5.0\DataSrtractures.exe
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\bin\Debug\net5.0\DataSrtractures.deps.json
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\bin\Debug\net5.0\DataSrtractures.runtimeconfig.json
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\bin\Debug\net5.0\DataSrtractures.runtimeconfig.dev.json
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\bin\Debug\net5.0\DataSrtractures.dll
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\bin\Debug\net5.0\ref\DataSrtractures.dll
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\bin\Debug\net5.0\DataSrtractures.pdb
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.csproj.AssemblyReference.cache
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.AssemblyInfoInputs.cache
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.AssemblyInfo.cs
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.csproj.CoreCompileInputs.cache
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.dll
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\ref\DataSrtractures.dll
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.pdb
+D:\Projects\Others\class\Dotnet\JwtTest\DataSrtractures\obj\Debug\net5.0\DataSrtractures.genruntimeconfig.cache
